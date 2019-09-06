@@ -931,7 +931,6 @@ The following sub-options (supported for `docker-compose up` and `docker-compose
 - [network_mode](#network_mode)
 - [restart](#restart)
 - [security_opt](#security_opt)
-- [sysctls](#sysctls)
 - [userns_mode](#userns_mode)
 
 >**Tip:** See the section on [how to configure volumes
